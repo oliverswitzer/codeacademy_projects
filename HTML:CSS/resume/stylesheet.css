@@ -1,0 +1,45 @@
+
+
+p {
+    margin: 0px;
+}
+
+#header {
+    z-index: 1;
+    background-color:#2A7D69;
+    width: 99%;
+    height:50px;
+    border-radius:10px;
+    margin-bottom:10px;
+}
+
+.right {
+    padding-left:30px;
+    float: right;
+    background-color:#B58619;
+    width: 88% ;
+    height: 30em;
+    border-radius: 10px;
+    margin-bottom:10px;
+}
+
+.left {
+    
+    float: left;
+    background-color:#B2C75D;
+    width: 9%;
+    height: 30em;
+    border-radius:10px;
+    margin-bottom:10px;
+}
+
+#footer {
+   
+    clear: both;
+    background-color:#8A280C;
+    width: 99%;
+    height: 5em;
+    border-radius:10px;
+    margin-top: 20px;
+
+}
